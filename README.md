@@ -1,30 +1,36 @@
-# Hello, I'm Your Name 👋
+### Hi I'm Roshan Tigga 👋
 
-I'm a passionate software developer with a strong foundation in web technologies. I enjoy building scalable and interactive web applications. My goal is to contribute to open source projects and learn from the developer community.
+<!--
+**roshan-tigga/roshan-tigga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 🚀 Skills and Technologies
+Here are some ideas to get you started:
 
-- **Languages**: JavaScript, Python, HTML, CSS
-- **Frontend**: React, Vue.js
-- **Backend**: Node.js, Express
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, Visual Studio Code
-- **DevOps**: Docker, Kubernetes
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+I'm a passionate software developer interested in creating amazing web applications. I enjoy working with cutting-edge technologies and solving complex problems.
+
+## 🔧 Technologies & Tools
+- HTML, CSS
+- JavaScript, jQuery
+- PHP, Laravel, Wordpress, CodeIgniter
+- Node.js
+- Go Lang
+- Git, GitHub, GitLab & Bitbucket
+- VS Code
 
 ## 🌱 Currently Learning
-
-- GraphQL
-- TypeScript
-- AWS services
-
-## 💼 Projects
-
-- [Project 1](https://github.com/yourusername/project-1): A brief description of the project.
-- [Project 2](https://github.com/yourusername/project-2): Another cool project.
+- Go Lang
 
 ## 📫 Contact Me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Email: your@email.com
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/roshan-tigga-95064484)
 
 Feel free to reach out and connect! 😊
+
