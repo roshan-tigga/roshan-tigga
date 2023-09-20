@@ -27,10 +27,10 @@ I'm a passionate software developer interested in creating amazing web applicati
 - VS Code
 
 ## 🌱 Currently Learning
-- GO Lang
+- Go Lang
 
 ## 📫 Contact Me
-- LinkedIn: [https://www.linkedin.com/in/roshan-tigga-95064484)
+- LinkedIn: https://www.linkedin.com/in/roshan-tigga-95064484
 
 Feel free to reach out and connect! 😊
 
