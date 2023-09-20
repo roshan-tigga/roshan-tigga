@@ -1,4 +1,4 @@
-### Hi I'm Roshan Tigga 👋
+### Hi i'm Roshan Tigga 👋
 
 <!--
 **roshan-tigga/roshan-tigga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,27 +18,19 @@ Here are some ideas to get you started:
 I'm a passionate software developer interested in creating amazing web applications. I enjoy working with cutting-edge technologies and solving complex problems.
 
 ## 🔧 Technologies & Tools
-
-- JavaScript, HTML, CSS
-- React, Node.js
-- Git & GitHub
-- VS Code, Sublime Text
+- HTML, CSS
+- JavaScript, jQuery
+- PHP, Laravel, Wordpress, CodeIgniter
+- Node.js
+- Go Lang
+- Git, GitHub, GitLab & Bitbucket
+- VS Code
 
 ## 🌱 Currently Learning
-
-- Machine Learning
-- Docker & Kubernetes
-- GraphQL
-
-## 📚 Projects
-
-- [Project 1](https://github.com/yourusername/project-1): A brief description of the project.
-- [Project 2](https://github.com/yourusername/project-2): Another cool project.
+- GO Lang
 
 ## 📫 Contact Me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Email: your@email.com
+- LinkedIn: [https://www.linkedin.com/in/roshan-tigga-95064484)
 
 Feel free to reach out and connect! 😊
 
