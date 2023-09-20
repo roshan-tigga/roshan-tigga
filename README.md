@@ -21,6 +21,7 @@ I'm a passionate software developer interested in creating amazing web applicati
 - HTML, CSS
 - JavaScript, jQuery
 - PHP, Laravel, Wordpress, CodeIgniter
+- Chrome Extension
 - Node.js
 - Go Lang
 - Git, GitHub, GitLab & Bitbucket
